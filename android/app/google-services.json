@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458007309770",
+    "firebase_url": "https://flight-app-prac.firebaseio.com",
+    "project_id": "flight-app-prac",
+    "storage_bucket": "flight-app-prac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458007309770:android:87105adac13ead7b",
+        "android_client_info": {
+          "package_name": "com.example.flightmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458007309770-sanjcnrbhv02f67bn6lejt6040on2nj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgv7tJgF2uPdEmw9Llj-q443fFdz6PLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458007309770-sanjcnrbhv02f67bn6lejt6040on2nj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
